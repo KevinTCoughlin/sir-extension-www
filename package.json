@@ -1,0 +1,23 @@
+{
+  "name": "sir-extension-www",
+  "version": "1.0.0",
+  "description": "www. homepage for S.I.R browser extension",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "test",
+    "start": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KevinTCoughlin/sir-extension-www.git"
+  },
+  "author": "Kevin Coughlin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KevinTCoughlin/sir-extension-www/issues"
+  },
+  "homepage": "https://github.com/KevinTCoughlin/sir-extension-www#readme"
+}
