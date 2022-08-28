@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/KevinTCoughlin/sir-extension-www/issues"
   },
-  "homepage": "https://github.com/KevinTCoughlin/sir-extension-www#readme"
+  "homepage": "https://github.com/KevinTCoughlin/sir-extension-www#readme",
+  "devDependencies": {
+    "http-server": "14.1.1"
+  }
 }
